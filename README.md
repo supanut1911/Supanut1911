@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm 0xNutx</h1>
-<h3 align="center">Feel fear and do it anyway</h3>
 
 - 📫 How to reach me **dev.supanut@gmail.com**
 
